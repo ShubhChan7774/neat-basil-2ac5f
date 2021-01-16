@@ -4,11 +4,11 @@ title = "Hugo-Webslides"
 <!--: .wrap .size-70 ..aligncenter bgimage=images/pencil.jpg -->
 
 
-## **Chacha vidhayak hain hmare**
+## **Aris Consultancy Services**
 
-<!--: .text-intro -->Use markdown to write contents and render with [**WebSlides**](https://webslides.tv) to HTML.
+<!--: .text-intro -->Helping Future Leaders find their Dream Instituitions.
 
-[{{< svg fa-github >}}Github](https://github.com/RCJacH/hugo-webslides)
+(https://github.com/RCJacH/hugo-webslides)
 
 ---
 
