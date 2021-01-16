@@ -8,8 +8,6 @@ title = "Hugo-Webslides"
 
 <!--: .text-intro -->Helping Future Leaders find their Dream Instituitions.
 
-(https://github.com/RCJacH/hugo-webslides)
-
 ---
 
 <!--: .wrap -->
