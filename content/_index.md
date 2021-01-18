@@ -15,7 +15,7 @@ title = "Aris Consultancy"
 ## **Various Streams of Colleges we Consult :-**
 
 <!--: .flexblock gallery -->
-- {{< gallery title="Technical" href="#slide=10" src="https://webslides.tv/static/images/demos-why.png" >}}Technical{{< /gallery >}}
+- {{< gallery title="Technical" href="#slide=10" src="images/bill-oxford-8u_2imJaVQs-unsplash.jpg" >}}Technical{{< /gallery >}}
 - {{< gallery title="Management" href="https://webslides.tv/demos/landings" src="https://webslides.tv/static/images/demos-landings.png" >}}Management{{< /gallery >}}
 - {{< gallery title="Medical" href="https://webslides.tv/demos/portfolios" src="https://webslides.tv/static/images/demos-portfolios.png" >}}Medical{{< /gallery >}}
 - {{< gallery title="Distant Degree" href="https://webslides.tv/demos/apple" src="https://webslides.tv/static/images/demos-apple.png" >}}Distant Degree{{< /gallery >}}
@@ -28,7 +28,7 @@ title = "Aris Consultancy"
 
 <!--: .flexblock gallery -->
 - {{< gallery title="Netflix's Culture" href="https://webslides.tv/demos/netflix-culture" src="images/pencil.jpg" >}}Netflix{{< /gallery >}}
-- {{< gallery title="Longform Articles" href="https://webslides.tv/demos/longforms" src="https://webslides.tv/static/images/demos-longforms.png" >}}Longforms{{< /gallery >}}
+- {{< gallery title="Longform Articles" href="https://webslides.tv/demos/longforms" src="images/bill-oxford-8u_2imJaVQs-unsplash.jpg" >}}Longforms{{< /gallery >}}
 - {{< gallery title="Interviews" href="https://webslides.tv/demos/interviews" src="https://webslides.tv/static/images/demos-interviews.png" >}}Interviews{{< /gallery >}}
 
 ---
