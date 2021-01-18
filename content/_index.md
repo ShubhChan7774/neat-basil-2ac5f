@@ -12,8 +12,7 @@ title = "Hugo-Webslides"
 
 <!--: .wrap -->
 
-## **Various Streams of Colleges we Consult**
-Here's what you can do with [WebSlides](https://webslides.tv).
+## **Various Streams of Colleges we Consult :-**
 
 <!--: .flexblock gallery -->
 - {{< gallery title="Why WebSlides" href="#slide=10" src="https://webslides.tv/static/images/demos-why.png" >}}Why WebSlides{{< /gallery >}}
