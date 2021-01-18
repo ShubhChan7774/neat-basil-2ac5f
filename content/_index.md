@@ -16,7 +16,7 @@ title = "Aris Consultancy"
 
 <!--: .flexblock gallery -->
 - {{< gallery title="Technical" href="#slide=10" src="images/Technical Education.jpg" >}}Technical{{< /gallery >}}
-- {{< gallery title="Management" href="https://webslides.tv/demos/landings" src="https://webslides.tv/static/images/demos-landings.png" >}}Management{{< /gallery >}}
+- {{< gallery title="Management" href="https://webslides.tv/demos/landings" src="images/Management Studies.png" >}}Management{{< /gallery >}}
 - {{< gallery title="Medical" href="https://webslides.tv/demos/portfolios" src="images/bill-oxford-8u_2imJaVQs-unsplash.jpg" >}}Medical{{< /gallery >}}
 - {{< gallery title="Distant Degree" href="https://webslides.tv/demos/apple" src="https://webslides.tv/static/images/demos-apple.png" >}}Distant Degree{{< /gallery >}}
 
