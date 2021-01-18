@@ -27,7 +27,7 @@ title = "Aris Consultancy"
 <small>Note. None of these slides are currently not ported to Hugo-Webslides...YET.</small>
 
 <!--: .flexblock gallery -->
-- {{< gallery title="Netflix's Culture" href="https://webslides.tv/demos/netflix-culture" src="images/pencil.jpg" >}}Netflix{{< /gallery >}}
+- {{< gallery title="Netflix's Culture" href="https://arisonline.co.in/#slide=5" src="images/pencil.jpg" >}}Netflix{{< /gallery >}}
 - {{< gallery title="Longform Articles" href="https://webslides.tv/demos/longforms" src="images/bill-oxford-8u_2imJaVQs-unsplash.jpg" >}}Longforms{{< /gallery >}}
 - {{< gallery title="Interviews" href="https://webslides.tv/demos/interviews" src="https://webslides.tv/static/images/demos-interviews.png" >}}Interviews{{< /gallery >}}
 
