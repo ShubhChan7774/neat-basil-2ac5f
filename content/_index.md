@@ -15,10 +15,10 @@ title = "Hugo-Webslides"
 ## **Various Streams of Colleges we Consult :-**
 
 <!--: .flexblock gallery -->
-- {{< gallery title="Technical" href="#slide=10" src="https://webslides.tv/static/images/demos-why.png" >}}Why WebSlides{{< /gallery >}}
-- {{< gallery title="Management" href="https://webslides.tv/demos/landings" src="https://webslides.tv/static/images/demos-landings.png" >}}Landings{{< /gallery >}}
-- {{< gallery title="Medical" href="https://webslides.tv/demos/portfolios" src="https://webslides.tv/static/images/demos-portfolios.png" >}}Portfolios{{< /gallery >}}
-- {{< gallery title="Distant Degree" href="https://webslides.tv/demos/apple" src="https://webslides.tv/static/images/demos-apple.png" >}}Keynote{{< /gallery >}}
+- {{< gallery title="Technical" href="#slide=10" src="https://webslides.tv/static/images/demos-why.png" >}}Technical{{< /gallery >}}
+- {{< gallery title="Management" href="https://webslides.tv/demos/landings" src="https://webslides.tv/static/images/demos-landings.png" >}}Management{{< /gallery >}}
+- {{< gallery title="Medical" href="https://webslides.tv/demos/portfolios" src="https://webslides.tv/static/images/demos-portfolios.png" >}}Medical{{< /gallery >}}
+- {{< gallery title="Distant Degree" href="https://webslides.tv/demos/apple" src="https://webslides.tv/static/images/demos-apple.png" >}}Distant Degree{{< /gallery >}}
 
 ---
 <!--: .wrap -->
