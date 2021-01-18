@@ -12,7 +12,7 @@ title = "Hugo-Webslides"
 
 <!--: .wrap -->
 
-## **WebSlides Demos**
+## **Various Streams of Colleges we Consult**
 Here's what you can do with [WebSlides](https://webslides.tv).
 
 <!--: .flexblock gallery -->
