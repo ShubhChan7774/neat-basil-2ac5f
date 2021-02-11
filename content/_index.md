@@ -6,7 +6,7 @@ title = "Aris Consultancy"
 
 ## **Aris Consultancy Services**
 
-<!--: .text-intro -->Helping Future Leaders find their Dream Instituitions.
+<!--: .text-intro -->*Helping Future Leaders find their Dream Instituitions*.
 
 ---
 
